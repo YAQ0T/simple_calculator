@@ -1,0 +1,4 @@
+E:\c++\Learning C++ GUI\x64\Debug\Learning C++ GUI.vcxproj.AssemblyReference.cache
+E:\c++\Learning C++ GUI\x64\Debug\LearningCGUI.MyForm.resources
+E:\c++\Learning C++ GUI\x64\Debug\Learning C++ GUI.vcxproj.GenerateResource.cache
+E:\c++\Learning C++ GUI\x64\Debug\Simple Calculator.exe
